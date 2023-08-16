@@ -1,4 +1,7 @@
-### Hi there 👋
+👨‍💻 Beginner Programmer
+🟩 I Develop Minecraft Mods
+⭐ I Also Develop Other Stuff From Time To Time
+👋 My Discord Is "itsfuntum"
 
 <!--
 **ItsFuntum/ItsFuntum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
