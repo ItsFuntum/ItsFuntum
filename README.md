@@ -1,7 +1,8 @@
-👨‍💻 Beginner Programmer
-🟩 I Develop Minecraft Mods
-⭐ I Also Develop Other Stuff From Time To Time
-👋 My Discord Is "itsfuntum"
+- 🔭 I’m currently working on an *unofficial* Wii U Client for mii-man/aurorachat and a backend for it which I call "Borealis".
+- 👯 If you are willing to help or want to collaborate then feel free to do so! (You can contact me with the details below)
+- 🌱 I’m currently learning C#, but also have interest in C, C++, JavaScript and Python
+- ⚡ Fun fact: The nickname *Funtum* is a result of people pronouncing my previous nickname wrong: *Phuntum*, and that nickname is the word "Phantom" but the letters **a** and **o** replaced with the letter **u**
+- 📫 My Discord Is "itsfuntum" and my Pretendo Network ID (PNID) is "Funtum"
 
 <!--
 **ItsFuntum/ItsFuntum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
