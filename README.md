@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on an *unofficial* Wii U Client for mii-man/aurorachat and a backend for it which I call "Borealis".
+- 🔭 I’m currently working on a Wii U Client for mii-man/aurorachat.
 - 👯 If you are willing to help or want to collaborate then feel free to do so! (You can contact me with the details below)
 - 🌱 I’m currently learning C#, but also have interest in C, C++, JavaScript and Python
 - ⚡ Fun fact: The nickname *Funtum* is a result of people pronouncing my previous nickname wrong: *Phuntum*, and that nickname is the word "Phantom" but the letters **a** and **o** replaced with the letter **u**
